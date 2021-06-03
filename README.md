@@ -10,6 +10,6 @@ File com:
 ### File mysql
   连接mysql，记录历史与拿到蔬菜价格
 ### File err
-  err 页面 ###未使用
+  err 页面 ### 未使用
   
  run GUI(2) . remember change COM port and opencv camera port.
